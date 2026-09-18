@@ -1,0 +1,10 @@
+{
+  "name": "AI SQL Query Builder",
+  "description": "Enterprise AI SQL Query Builder with complete user authentication, natural language query generation, schema inspection, query history, and data visualization.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
